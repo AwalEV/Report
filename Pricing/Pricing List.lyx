@@ -1,0 +1,236 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Broad areas to be considered in spreadsheet
+\end_layout
+
+\begin_layout Enumerate
+Website
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Website
+\end_layout
+
+\begin_layout Enumerate
+Repository (Github)
+\end_layout
+
+\begin_layout Enumerate
+Domain name
+\end_layout
+
+\begin_layout Enumerate
+Cloud Storage
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Research/licenses
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+IEEE licenses (Pending University enrollment)
+\end_layout
+
+\begin_layout Enumerate
+Australian Standards (Pending University enrollment)
+\end_layout
+
+\begin_layout Enumerate
+MATLAB (Pending University enrollment)
+\end_layout
+
+\begin_layout Enumerate
+Dymola/OpenModelica (Pending University enrollment)
+\end_layout
+
+\begin_layout Enumerate
+EAGLE (Pending University enrollment)
+\end_layout
+
+\begin_layout Enumerate
+Altium
+\end_layout
+
+\begin_layout Enumerate
+AutoCAD (Pending University enrollment)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Inverter parts
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+PCBs
+\end_layout
+
+\begin_layout Enumerate
+Components
+\end_layout
+
+\begin_layout Enumerate
+Silicon Carbide MOSFETS
+\end_layout
+
+\begin_layout Enumerate
+HV Capacitors
+\end_layout
+
+\begin_layout Enumerate
+Gate Driver ICs
+\end_layout
+
+\begin_layout Enumerate
+MCU
+\end_layout
+
+\begin_layout Enumerate
+DC/DC Converters
+\end_layout
+
+\begin_layout Enumerate
+Bluetooth/wireless devices
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Chassis parts
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Prebuilt frame
+\end_layout
+
+\begin_layout Enumerate
+Steel/aluminum (pending design)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Batteries
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Recharging station
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+PCBs
+\end_layout
+
+\begin_layout Enumerate
+Components
+\end_layout
+
+\begin_layout Enumerate
+Temperature monitoring devices
+\end_layout
+
+\begin_layout Enumerate
+Software
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Lithium Ion cells
+\end_layout
+
+\begin_layout Enumerate
+Lead acid
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Electrics
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Cabelling
+\end_layout
+
+\begin_layout Enumerate
+Insulation
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
